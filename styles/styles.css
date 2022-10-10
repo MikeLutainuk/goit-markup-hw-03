@@ -1,4 +1,4 @@
- 
+  
   :root {
     --color-heading: #212121;
     --color-text: #757575;
@@ -423,7 +423,5 @@ margin-bottom: 9px;
     color: #FFFFFF;
     font-size: 14px;
     font-style: normal;
-    line-height: 1.71;
-    
-  }
-  
+    line-height: 1.71;  }
+ 
