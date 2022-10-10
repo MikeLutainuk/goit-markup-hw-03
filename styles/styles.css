@@ -38,7 +38,8 @@
       list-style: none;}
 
     .img {
-      display: block; }
+      display: block;
+      width: 100%; }
   
 
 .main {
